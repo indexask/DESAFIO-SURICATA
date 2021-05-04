@@ -1,0 +1,37 @@
+body{
+  text-align: center;
+
+}
+.tittle{
+  padding: 60px;
+  text-align: center;
+  color: #707070;
+  font-size: 2000px;
+  
+}
+.navbar{
+  background-color:#E83E8C;
+}
+.logo{
+  background-size: cover;
+  height: 60px;
+  padding-left: 60px;
+}
+section{
+  background-color: #17A2B8;
+  color: white;
+}
+h3{
+  align-items: center;
+}
+.img{
+  background-color: #E83E8C;
+  text-align: center;
+  height: 150px;
+  padding: 20px;
+}
+.backgrounds{
+  background-color: #E83E8C;
+  height: 170px;
+}
+
